@@ -1,5 +1,10 @@
 OpenHemp
 ========
+![hemp](https://github.com/MikeBarcl/OpenHemp/raw/master/images/hemp.jpeg)  
+<!---
+image from http://www.collective-evolution.com/2013/01/06/hemp-could-the-us-make-it-legal-once-again/
+-->
+
 
 Open information about the uses of hemp
 
